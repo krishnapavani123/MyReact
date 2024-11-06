@@ -10,7 +10,7 @@ const Header=()=>{
 
         <div className='image'>
 <Link to='/'>
-            <img src="https://images.squarespace-cdn.com/content/v1/5a8207ded0e628cdcc5112d7/1518542521276-7CUFBUJM4W9PBZJJ71RX/ayres-vineyard-logo.png?format=1500w" className="img"/>
+            <img src="https://images.squarespace-cdn.com/content/v1/5a8207ded0e628cdcc5112d7/1518542521276-7CUFBUJM4W9PBZJJ71RX/ayres-vineyard-logo.png?format=1500w" className="img"  alt="imageh"/>
             </Link>
         </div>
     
@@ -30,7 +30,7 @@ const Header=()=>{
         <div className="pop">
         <div className='image1'>
 <Link to='/'>
-            <img src="https://images.squarespace-cdn.com/content/v1/5a8207ded0e628cdcc5112d7/1518542521276-7CUFBUJM4W9PBZJJ71RX/ayres-vineyard-logo.png?format=1500w" className="img"/>
+            <img src="https://images.squarespace-cdn.com/content/v1/5a8207ded0e628cdcc5112d7/1518542521276-7CUFBUJM4W9PBZJJ71RX/ayres-vineyard-logo.png?format=1500w" className="img"  alt="imageh"/>
             </Link>
         </div>
         <Popup 
