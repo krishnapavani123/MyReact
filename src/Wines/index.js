@@ -40,28 +40,28 @@ const Wines=()=>{
               <div className='Wines'>
 
                 <div className='wine-1'>
-                    <img src="https://images.squarespace-cdn.com/content/v1/5a8207ded0e628cdcc5112d7/1600271767585-12AWBZXYEYZ2JPIETCGH/ayres-vineyard-wines-small-rose-pinot-noir-b.jpg?format=750w" className='wimg'/>
+                    <img src="https://images.squarespace-cdn.com/content/v1/5a8207ded0e628cdcc5112d7/1600271767585-12AWBZXYEYZ2JPIETCGH/ayres-vineyard-wines-small-rose-pinot-noir-b.jpg?format=750w" className='wimg'  alt="imagew"/>
                     <h1 className='w-h'>Rosé of Pinot Noir</h1>
                     <p className='w-p'>View Details</p>
                 </div>
                 <div className='wine-1'>
-                    <img src="https://images.squarespace-cdn.com/content/v1/5a8207ded0e628cdcc5112d7/1600206348347-VNBUJE4965SJXRK6OISC/ayres-vineyard-wines-small-perspective-2019.jpg?format=750w" className='wimg'/>
+                    <img src="https://images.squarespace-cdn.com/content/v1/5a8207ded0e628cdcc5112d7/1600206348347-VNBUJE4965SJXRK6OISC/ayres-vineyard-wines-small-perspective-2019.jpg?format=750w" className='wimg'  alt="imagew"/>
                     <h1 className='w-h'>Perspective Pinot Noir</h1>
                     <p className='w-p'>View Details</p>
                 </div>
                 <div className='wine-1'>
-                    <img src="https://images.squarespace-cdn.com/content/v1/5a8207ded0e628cdcc5112d7/1600206977198-U5BW2T554L7MCXQ2EU8H/ayres-vineyard-wines-small-lewis-rogers-2018.jpg?format=750w" className='wimg'/>
+                    <img src="https://images.squarespace-cdn.com/content/v1/5a8207ded0e628cdcc5112d7/1600206977198-U5BW2T554L7MCXQ2EU8H/ayres-vineyard-wines-small-lewis-rogers-2018.jpg?format=750w" className='wimg'  alt="imagew"/>
                     <h1 className='w-h'>Lewis Rogers Lane
                     Pinot Noir</h1>
                     <p className='w-p'>View Details</p>
                 </div>
                 <div className='wine-1'>
-                    <img src="https://images.squarespace-cdn.com/content/v1/5a8207ded0e628cdcc5112d7/1600271127817-3UI5OA8BWGDXKPHTUI5I/ayres-vineyard-wines-small-pioneer-2018-resized.jpg?format=750w" className='wimg'/>
+                    <img src="https://images.squarespace-cdn.com/content/v1/5a8207ded0e628cdcc5112d7/1600271127817-3UI5OA8BWGDXKPHTUI5I/ayres-vineyard-wines-small-pioneer-2018-resized.jpg?format=750w" className='wimg'  alt="imagew"/>
                     <h1 className='w-h'>Pioneer Pinot Noir</h1>
                     <p className='w-p'>View Details</p>
                 </div>
                 <div className='wine-1'>
-                    <img src="https://images.squarespace-cdn.com/content/v1/5a8207ded0e628cdcc5112d7/1600207625255-FHNVOEMEY2CI4W49Y1XS/ayres-vineyard-wines-small-one-2018.jpg?format=750w" className='wimg'/>
+                    <img src="https://images.squarespace-cdn.com/content/v1/5a8207ded0e628cdcc5112d7/1600207625255-FHNVOEMEY2CI4W49Y1XS/ayres-vineyard-wines-small-one-2018.jpg?format=750w" className='wimg'  alt="imagew"/>
                     <h1 className='w-h'>One Pinot Noir</h1>
                     <p className='w-p'>View Details</p>
                 </div>
