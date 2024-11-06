@@ -8,7 +8,7 @@ const Footer=()=>{
 return(
     <div className='footer'>
 <div>
-                <img src="https://images.squarespace-cdn.com/content/v1/5a8207ded0e628cdcc5112d7/1518806146541-I856ERJ1XO0YXE0H1SNQ/ayres-vineyard-home-illustration-trees.png?format=1500w" className='img-mm'/>
+                <img src="https://images.squarespace-cdn.com/content/v1/5a8207ded0e628cdcc5112d7/1518806146541-I856ERJ1XO0YXE0H1SNQ/ayres-vineyard-home-illustration-trees.png?format=1500w" className='img-mm'  alt="imagef"/>
             </div>
             <div className="ff">
     <div className='botom'>
