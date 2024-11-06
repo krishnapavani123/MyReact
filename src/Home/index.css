@@ -1,0 +1,198 @@
+.bg{
+    background-image: url("https://images.squarespace-cdn.com/content/v1/5a8207ded0e628cdcc5112d7/1519238089060-SBHNJIJ5S8JDDUSABOVJ/ayres-vineyard-home-hero-h.jpg?format=2500w");
+    background-size: cover;
+    height:100vh;
+    margin:40px;
+    text-align: center;
+   
+    
+}
+.heading{
+    font-size:100px;
+    font-family:sans-serif;
+    font-weight: lighter;
+    color:white;
+
+  
+
+}
+.hlo{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding:250px;
+
+}
+
+.head-1{
+    color:#494144;
+    font-family:'baskerville-urw';
+    font-size:60px;
+}
+.para-1{
+    color:gray;
+    font-size:30px;
+    font-family:serif;
+    
+}
+.para-11{
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+    letter-spacing: .1em;
+    line-height: 1.2em;
+    font-family: 'baskerville-urw';
+    font-weight: 400;
+    font-style: normal;
+    font-size: 25px;
+    letter-spacing: .05em;
+    line-height: 1em;
+    word-spacing: 5px;
+    text-transform: none;
+    color:#615d5e;
+    max-width: 32em;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+.sub-1{
+    color:gray;
+    font-size:20px;
+    font-family:serif;
+    padding-top:40px;
+    
+
+}
+.img1{
+    width:500px;
+    
+}
+.card-1{
+    display: flex;
+    flex-wrap: wrap;
+    margin-top:10rem;
+    justify-content: space-around;
+}
+.card-11{
+   
+    height:250px;
+    width:30%;
+    margin-left: 50px;
+}
+.card-12{
+   
+    height:250px;
+    width:30%;
+    margin-left:6rem;
+   
+}
+.card-2{
+    display: flex;
+    flex-wrap: wrap;
+    margin-top:10rem;
+    margin-left:10rem;
+   
+}
+.main-h{
+    color: gray;
+   
+    text-align:center;
+    font-size: 30px;
+    font-weight: lighter;
+    font-family: 'Times New Roman', Times, serif;
+}
+.img-m{
+    width:450px;
+    
+}
+.sub-m{
+    display: flex;
+    flex-direction: column;
+   margin-right: 10rem;
+    margin-top: 10rem;
+   margin-left: 10rem;
+  
+}
+
+.b-h{
+    color: gray;
+    font-family:Fauna One;
+    font-size: 20px;
+}
+.b-p{
+    font-family: Fauna One;
+}
+@media screen and (max-width: 577px){
+    
+        .heading{
+            font-size:50px;
+            font-family:sans-serif;
+            font-weight: lighter;
+            color:white;
+           text-align: center;
+          
+        
+      
+    }
+    .hlo{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        padding:10rem;
+        text-align: center;
+    
+    }
+    .wineimg{
+      
+       text-align: center;
+    }
+    .img1{
+        width:300px;
+    }
+    .card-1{
+        display: flex;
+        flex-direction: column;
+      text-align: center;
+        margin-top:10rem;
+        justify-content: space-around;
+       
+    }
+    .card-11{
+   margin: 0px;
+        height:auto;
+        width:100%;
+        
+       
+    }
+    
+.card-12{
+   text-align: center;
+    height:auto;
+    width:100%;
+   margin: 0px;
+}
+.card-2{
+    display: flex;
+  flex-direction: column;
+  text-align: center;
+ margin: 0px;
+  width: 100%;
+  text-align: center;
+  justify-content: space-around;
+   
+   
+}
+.sub-m{
+    display: flex;
+    flex-direction: column;
+  
+    margin:20px;
+
+  
+}
+.img-m{
+    width:300px;
+}
+
+}

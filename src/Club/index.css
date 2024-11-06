@@ -1,0 +1,255 @@
+.cbg{
+    background-image: url("https://images.squarespace-cdn.com/content/v1/5a8207ded0e628cdcc5112d7/1520017368187-XJOL58QB6AMGTU2LW3A1/ayres-vineyard-club-hero-blend.jpg?format=2500w");
+    background-size: cover;
+    height:100vh;
+    margin:40px;
+    
+   
+    
+}
+.para1{
+    color:gray;
+    font-size:20px;
+    font-family:serif;
+   
+    text-align: left;
+    margin-top: 5rem;
+ 
+    
+}
+.head1{
+    color:#494144;
+    font-family:'baskerville-urw';
+    font-size:81px;
+  
+    text-align: center;
+    padding: 0px;
+   
+    
+}
+.para11{
+    font-family: Arial, sans-serif;
+   
+    height: 30px;
+    width: 35rem;
+    font-family: 'baskerville-urw';
+    letter-spacing: 0px;
+
+    font-style: normal;
+    font-size: 25px;
+    text-align: left;
+    color:#615d5e;
+    line-break: inherit;
+
+    
+
+}
+.c-1{
+    display: flex;
+    flex-direction: column;
+    width:50%;
+    height:300px;
+    text-align: center;
+    margin-left: 28rem;
+    padding: 0px;
+    
+}
+.main-h{
+    color: gray;
+   
+    text-align:center;
+    margin-top: 10rem;
+    font-weight: lighter;
+    font-family: 'Times New Roman', Times, serif;
+}
+.img-m{
+    width:450px;
+    
+}
+.sub-m{
+    display: flex;
+    flex-direction: column;
+   margin-right: 10rem;
+    margin-top: 10rem;
+   margin-left: 10rem;
+  
+}
+.foot{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+align-items: center;
+margin-top: 10rem;
+}
+.foot-p{
+    color:rgb(157, 168, 157);
+    font-weight: bolder;
+    font-size: 30px;
+}
+.item1{
+    font-family: Arial, sans-serif;
+    padding: 5px;
+    
+    font-family: 'baskerville-urw';
+    
+
+    font-style: normal;
+    font-size:20px;
+  
+    color:#615d5e;
+   
+}
+.lists{
+    display: flex;
+    flex-direction: column;
+  width: 40%;
+   
+}
+.span{
+    color:rgb(157, 168, 157);
+    text-decoration: none;
+    padding:2px;
+}
+.foot-h{
+    color:#494144;
+    font-weight: lighter;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.btn{
+    background-color: rgba(8, 85, 8, 0.73);
+    color:white;
+    font-family: 'baskerville-urw';
+    border-color: transparent;
+    height: 40px;
+    width:120px;
+    font-size: 20px;
+}
+.foot-b{
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+    margin-right: 20rem;
+    margin-top: 5rem;
+}
+@media screen and (max-width: 577px){
+
+    .head1{
+        color:#494144;
+        font-family:'baskerville-urw';
+        font-size:50px;
+      margin: 0px;
+        text-align: center;
+        padding: 0px;
+       
+        
+    }
+    .para11{
+        font-family: Arial, sans-serif;
+       
+        height: auto;
+        width: 350px;
+        font-family: 'baskerville-urw';
+        letter-spacing: 0px;
+    margin: 0px;
+    padding: 20px;
+        font-style: normal;
+        font-size: 25px;
+     
+        color:#615d5e;
+        line-break: inherit;
+    
+        
+    
+    }
+    .c-1{
+        display: flex;
+        flex-direction: column;
+        width:350px;
+        height:auto;
+        text-align: center;
+        margin:0px;
+        padding:10px;
+        padding: 0px;
+        
+    }
+    .main-h{
+        color: gray;
+       
+        text-align:center;
+        margin-top: 10rem;
+        font-weight: lighter;
+        font-family: 'Times New Roman', Times, serif;
+    }
+    .img-m{
+        width:450px;
+        
+    }
+    .sub-m{
+        display: flex;
+        flex-direction: column;
+       margin-right: 10rem;
+        margin-top: 10rem;
+       margin-left: 10rem;
+      
+    }
+    .foot{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+    align-items: center;
+    margin-top: 10rem;
+    }
+    .foot-p{
+        color:rgb(157, 168, 157);
+        font-weight: bolder;
+        font-size: 30px;
+    }
+    .item1{
+        font-family: Arial, sans-serif;
+        padding: 5px;
+        
+        font-family: 'baskerville-urw';
+        
+    
+        font-style: normal;
+        font-size:20px;
+      
+        color:#615d5e;
+       
+    }
+    .lists{
+        display: flex;
+        flex-direction: column;
+      width: 350px;
+      padding:10px;
+       
+    }
+    .span{
+        color:rgb(157, 168, 157);
+        text-decoration: none;
+        padding:2px;
+    }
+    .foot-h{
+        color:#494144;
+        font-weight: lighter;
+        font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    }
+    .btn{
+        background-color: rgba(8, 85, 8, 0.73);
+        color:white;
+        font-family: 'baskerville-urw';
+        border-color: transparent;
+        height: 40px;
+        width:120px;
+        font-size: 20px;
+    }
+    .foot-b{
+        display: flex;
+        flex-direction: column;
+        justify-content: flex-start;
+        align-items: flex-start;
+       margin: 0px;
+       padding: 20px;
+    }
+}

@@ -1,0 +1,169 @@
+.wbg{
+    background-image: url("https://images.squarespace-cdn.com/content/v1/5a8207ded0e628cdcc5112d7/1519913650534-U5H24PN3TATO6KK59Y9K/ayres-vineyard-wine-hero-b.jpg?format=2500w");
+    background-size: cover;
+    height:100vh;
+    margin:40px;
+    text-align: center;
+   
+   
+    
+}
+.w-11{
+    display: flex;
+    flex-direction: column;
+    width:60%;
+    height:50rem;
+    text-align: center;
+    margin-left: 30rem;
+    padding: 0px;
+    
+}
+.whead1{
+    color:#494144;
+    font-family:'baskerville-urw';
+    font-size:80px;
+  
+   margin-right: 16rem;
+    padding: 0px;
+   
+    
+}
+.wcard{
+    background-color:rgb(252, 252, 252);
+    height:150px;
+    width:80%;
+    margin-left: 10rem;
+    border: 2px solid black;
+    
+   
+    
+   
+
+}
+.wp{
+    padding-top:3rem;
+  
+    font-size: 15px;
+ font-family: Arial, Helvetica, sans-serif;
+    list-style-type: none;
+    font-weight: bolder;
+}
+.Wines{
+    display: flex;
+    flex-wrap: wrap;
+    text-align: center;
+    margin-left: 10rem;
+    margin-top: 5rem;
+}
+.wine-1{
+    height: auto;
+   
+}
+.w-h{
+    font-size: 25px;
+    font-family:'baskerville-urw';
+    color:#494144;
+}
+.w-p{
+    font-size:23px;
+    color: gray;
+    font-family:serif;
+}
+.wpara11{
+    font-family: Arial, sans-serif;
+   
+    height: 30px;
+    width: 35rem;
+    font-family: 'baskerville-urw';
+    letter-spacing: 0px;
+
+    font-style: normal;
+    font-size: 25px;
+    text-align: left;
+    color:#615d5e;
+    line-break: inherit;
+
+    
+
+}
+@media screen and (max-width: 577px){
+    .w-11{
+        display: flex;
+        flex-direction: column;
+        width:60%;
+        height:50rem;
+        text-align: center;
+        margin:0px;
+        padding:10px;
+        padding: 0px;
+        
+    }
+    .whead1{
+        color:#494144;
+        font-family:'baskerville-urw';
+        font-size:60px;
+      margin: 0px;
+        padding: 10px;
+       
+        
+    }
+    .wpara11{
+        font-family: Arial, sans-serif;
+       
+        height: auto;
+        width: 350px;
+        font-family: 'baskerville-urw';
+        letter-spacing: 0px;
+    padding: 15px;
+        font-style: normal;
+        font-size: 20px;
+        margin: 0px;
+        color:#615d5e;
+        line-break: inherit;
+    
+        
+    
+    }
+    .wcard{
+        background-color:rgb(252, 252, 252);
+        height:auto;
+        width:350px;
+        margin:0px;
+        border: 2px solid black;
+        
+       padding: 10px;
+        
+       
+    
+    }
+    .wp{
+        
+      padding: 10px;
+        font-size: 15px;
+     font-family: Arial, Helvetica, sans-serif;
+        list-style-type: none;
+        font-weight: bolder;
+    }
+    .Wines{
+        display: flex;
+        flex-wrap: wrap;
+        text-align: center;
+        margin:0px;
+       
+    }
+    .wine-1{
+        height: auto;
+       
+    }
+    .w-h{
+        font-size: 25px;
+        font-family:'baskerville-urw';
+        color:#494144;
+    }
+    .w-p{
+        font-size:23px;
+        color: gray;
+        font-family:serif;
+    }
+
+}

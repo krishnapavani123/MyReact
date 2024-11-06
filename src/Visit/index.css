@@ -1,0 +1,130 @@
+.vbg{
+    background-image: url("https://images.squarespace-cdn.com/content/v1/5a8207ded0e628cdcc5112d7/1520015363301-YZ1AYJYWGZL0OYSPBMPC/ayres-vineyard-visit-hero-blend.jpg?format=2500w");
+    background-size: cover;
+    height:100vh;
+    margin:40px;
+    
+   
+    
+}
+.v-11{
+    display: flex;
+    flex-direction: column;
+    width:50%;
+    height:50rem;
+    text-align: center;
+    margin-left: 30rem;
+    padding: 0px;
+    
+}
+.vhead1{
+    color:#494144;
+    font-family:'baskerville-urw';
+    font-size:50px;
+  
+   margin-right: 16rem;
+    padding: 0px;
+   
+    
+}
+.sub-v{
+    display: flex;
+    flex-direction: column;
+    margin-right: 10rem;
+   
+   margin-left: 10rem;
+ 
+  
+}
+.Visit{
+    
+}
+.vform{
+    margin-top: 15rem;
+
+    width:50%;
+    height:auto;
+    color:rgb(61, 87, 61);
+    font-size: 15px;
+    margin-left: 30rem;
+}
+
+.vpara11{
+    font-family: Arial, sans-serif;
+   
+    height: 30px;
+    width: 35rem;
+    font-family: 'baskerville-urw';
+    letter-spacing: 0px;
+
+    font-style: normal;
+    font-size: 25px;
+    text-align: left;
+    color:#615d5e;
+    line-break: inherit;
+
+    
+
+}
+@media screen and (max-width: 577px){
+    .vbg{
+        width: auto;
+        background-image: url("https://images.squarespace-cdn.com/content/v1/5a8207ded0e628cdcc5112d7/1518799762142-JJK6Q13O38BWMH1UXM4S/ayres-vineyard-home-visit-callout-b.jpg?format=1000w");
+    }
+    .v-11{
+        display: flex;
+        flex-direction: column;
+        width:50%;
+        height:50rem;
+        text-align: center;
+        margin:0px;
+        padding: 0px;
+        
+    }
+    .vhead1{
+        color:#494144;
+        font-family:'baskerville-urw';
+        font-size:50px;
+      width: 330px;
+  margin: 0px;
+        padding: 10px;
+       
+        
+    }
+    
+.vpara11{
+    font-family: Arial, sans-serif;
+   
+    height: auto;
+    width: 350px;
+    font-family: 'baskerville-urw';
+    letter-spacing: 0px;
+padding: 10px;
+    font-style: normal;
+    font-size: 20px;
+ 
+    color:#615d5e;
+    line-break: inherit;
+
+    
+
+}
+    .sub-v{
+        display: flex;
+        flex-direction: column;
+      margin: 0px;
+      padding: 15px;
+     
+      
+    }
+    .vform{
+   
+    padding: 20px;
+        width:330px;
+        height:auto;
+        color:rgb(61, 87, 61);
+        font-size: 15px;
+        margin:0px;
+    }
+    
+}

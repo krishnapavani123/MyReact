@@ -1,0 +1,199 @@
+.abg{
+    background-image: url("https://images.squarespace-cdn.com/content/v1/5a8207ded0e628cdcc5112d7/1519848435450-XL2T2R759BXKSG3T4EXG/ayres-vineyard-about-ribbon-ridge-lowres-32.jpg?format=2500w");
+    background-size: cover;
+    height:100vh;
+    margin:40px;
+    text-align: center;
+   
+    
+}
+
+.Ahead1{
+    color:#494144;
+    font-family:'baskerville-urw';
+    font-size:70px;
+    margin: 3rem;
+
+    padding: 0px;
+    line-break: inherit;
+    text-align: left;
+   
+    
+}
+.Apara11{
+    font-family: Arial, sans-serif;
+   
+    height: 30px;
+    width: 35rem;
+    font-family: 'baskerville-urw';
+    letter-spacing: 0px;
+
+    font-style: normal;
+    font-size: 25px;
+    text-align: left;
+    color:#615d5e;
+    line-break: inherit;
+    
+
+    
+
+}
+.a-1{
+    display: flex;
+    flex-direction: column;
+    width:50%;
+    text-align: center;
+    margin-left: 28rem;
+    padding: 0px;
+    
+}
+.a-card{
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bolder;
+    text-align: center;
+    margin-top: 5rem;
+    width:500px;
+    color:#494144;
+   margin-left: 30rem;
+   line-break: inherit;
+   text-align: left;
+   font-size: 23px;
+  
+    
+}
+.a-11{
+    background-image: url("https://images.squarespace-cdn.com/content/v1/5a8207ded0e628cdcc5112d7/1519756076854-J06ICWPJVR65D8ZUDRYM/ayres-vineyard-wines-wine-glass-bottles-36.jpg?format=1500w");
+    background-size: cover;
+    height: 100vh;
+    width:65vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    color: rgb(255, 255, 255);
+    font-family: sans-serif;
+    font-weight: lighter;
+    font-size: 10px;
+ 
+   margin: 5px;
+}
+.a-2{
+    background-image: url("https://images.squarespace-cdn.com/content/v1/5a8207ded0e628cdcc5112d7/1554407733441-7VZIENMKNH3R0HG5ICB5/750w.jpg?format=1500w");
+    background-size: cover;
+    height: 100vh;
+    width:65vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    color: rgb(255, 255, 255);
+    font-family: sans-serif;
+    font-weight: lighter;
+    font-size: 10px;
+    margin: 5px;
+}
+.a-3{
+    background-image: url("https://images.squarespace-cdn.com/content/v1/5a8207ded0e628cdcc5112d7/1519848562753-7NCSUXN2NR3Q66U9VGUX/ayres-vineyard-about-vineyard-callout.jpg?format=1500w");
+    background-size: cover;
+    height: 100vh;
+    width:65vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    color: rgb(255, 255, 255);
+    font-family: sans-serif;
+    font-weight: lighter;
+    font-size: 10px;
+    margin: 5px;
+  
+}
+.a-f{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 5rem;
+}
+@media screen and (max-width: 577px){
+    .a-1{
+        
+            display: flex;
+            padding:10px;
+            flex-direction: column;
+            width:100%;
+            text-align: center;
+            margin: 0px;
+           
+          
+            
+        
+    }
+    .a-card{
+        font-family: 'Times New Roman', Times, serif;
+        font-weight: bolder;
+        text-align: center;
+       
+        width:350px;
+        color:#494144;
+     margin: 0px;
+       line-break: inherit;
+      
+       font-size: 20px;
+      
+        
+    }
+    .main-h{
+        width:50px;
+        width:350px;
+        padding:10px;
+    }
+    .img-m{
+        width:20px;
+    }
+.Ahead1{
+    color:#494144;
+    font-family:'baskerville-urw';
+    font-size:40px;
+   margin: 0px;
+    padding: 5px;
+    line-break: inherit;
+    text-align: left;
+   
+    
+}
+.Apara11{
+    font-family: Arial, sans-serif;
+   padding:15px;
+    height: 30px;
+    width:330px;
+    font-family: 'baskerville-urw';
+    letter-spacing: 0px;
+
+    font-style: normal;
+    font-size: 20px;
+    text-align: left;
+    color:#615d5e;
+    line-break: inherit;
+    
+    
+
+    
+
+}
+.a-f{
+    display: flex;
+    flex-direction: column;
+    width: auto;
+   
+}
+.a-3{
+    height: 100vh;
+    width: auto;
+}
+.a-2{
+    width: auto;
+}
+.a-11{
+    width: auto;
+}
+
+}

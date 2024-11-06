@@ -1,0 +1,162 @@
+.Cbg{
+    background-image: url("https://images.squarespace-cdn.com/content/v1/5a8207ded0e628cdcc5112d7/1522259892544-J5J6PYANL4VIPB77K7T3/ayres-vineyard-contact-hero-blend.jpg?format=2500w");
+    background-size: cover;
+    height:100vh;
+    margin:40px;
+    text-align: center;
+   
+    
+}
+.ccontact{
+    display: flex;
+}
+.c-11{
+    display: flex;
+    flex-direction: column;
+    width:50%;
+    height:auto;
+    text-align: center;
+    margin-left: 10rem;
+    padding: 0px;
+    
+}
+.top{
+    margin-top: 5rem;
+    margin-left:10rem;
+    width:230px;
+    font-size: 15px;
+}
+.form{
+    margin-top: 15rem;
+    text-align: left;
+    width:50%;
+    height:auto;
+    color:rgb(61, 87, 61);
+    font-size: 15px;
+}
+.textt{
+    display: flex;
+    text-align: left;
+
+    
+}
+.f-p{
+   text-align: left;
+}
+.f-l{
+    text-align: left;
+    margin: 10px;
+}
+Input{
+      margin: 10px;
+      width:300px;
+      height:30px;
+}
+.e-i{
+    width: 40rem;
+}
+.msg{
+    width: 40rem;
+    height:5rem;
+}
+.chead1{
+    color:#494144;
+    font-family:'baskerville-urw';
+    font-size:81px;
+  
+    text-align: center;
+    padding: 0px;
+   
+    
+}
+.cpara11{
+    font-family: Arial, sans-serif;
+   
+    height: 30px;
+    width: 35rem;
+    font-family: 'baskerville-urw';
+    letter-spacing: 0px;
+
+    font-style: normal;
+    font-size: 25px;
+    text-align: left;
+    color:#615d5e;
+    line-break: inherit;
+
+    
+
+}
+
+
+{
+    .ccontact{
+        display: flex;
+        flex-direction: column;
+        margin: 0px;
+    }
+    .chead1{
+        color:#494144;
+        font-family:'baskerville-urw';
+        font-size:50px;
+      margin: 0px;
+        text-align: center;
+        padding: 10px;
+       
+        
+    }
+    .cpara11{
+        font-family: Arial, sans-serif;
+       
+       
+        width: 330px;
+        font-family: 'baskerville-urw';
+        letter-spacing: 0px;
+    height: auto;
+        font-style: normal;
+        font-size: 20px;
+       margin: 0px;
+       padding: 15px;
+        color:#615d5e;
+        line-break: inherit;
+    
+        
+    
+    }
+    .form{
+      padding:20px;
+        
+        width:350px;
+        height:auto;
+        color:rgb(61, 87, 61);
+        font-size: 15px;
+        margin: 0px;
+    }
+    .c-11{
+        display: flex;
+        flex-direction: column;
+        width:350px;
+        height:auto;
+    padding: 10px;
+        margin: 0px;
+        
+    }
+    .top{
+        margin: 0px;
+        padding: 10px;
+    }
+    .e-i{
+        width: 300px;
+    }
+    .msg{
+        width: 300px;
+        height:3rem;
+    }
+    .textt{
+        display: flex;
+        flex-direction: column;
+        text-align: left;
+    
+        
+    }
+
+}

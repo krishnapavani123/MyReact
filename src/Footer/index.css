@@ -1,0 +1,44 @@
+.b-h{
+    color: gray;
+    font-family:Fauna One;
+    font-size: 20px;
+}
+.b-p{
+    font-family: Fauna One;
+}
+.footer{
+    display: flex;
+    justify-content: space-around;
+
+    flex-wrap: wrap;
+}
+.icons{
+    padding:5px;
+}
+
+.img-mm{
+    margin: 3rem;
+   
+}
+@media screen and (max-width: 577px){
+    .img-mm{
+        width:300px;
+    }
+    .ff{
+        display: flex;
+        flex-direction: column;
+    }
+}
+@media screen and (min-width: 578px){
+    .ff{
+        display: flex;
+        justify-content: space-around;
+        flex-wrap: wrap;
+
+    }
+    .botom{
+        margin:6rem;
+    }
+   
+
+}
