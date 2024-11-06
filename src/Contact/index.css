@@ -88,6 +88,7 @@ Input{
 }
 
 
+@media screen and (max-width: 577px)
 {
     .ccontact{
         display: flex;
