@@ -25,7 +25,7 @@ const Trade=()=>{
                     <div className='t-1'>
 
 
-                        <img src="https://images.squarespace-cdn.com/content/v1/5a8207ded0e628cdcc5112d7/1600205698202-82R3VTCJTQR7BFD1G66B/AyresVineyard_WillametteValleyPinotNoir_2019_Label.jpg?format=500w" className='t-img'/>
+                        <img src="https://images.squarespace-cdn.com/content/v1/5a8207ded0e628cdcc5112d7/1600205698202-82R3VTCJTQR7BFD1G66B/AyresVineyard_WillametteValleyPinotNoir_2019_Label.jpg?format=500w" className='t-img'  alt="imaget"/>
                         <h1 className='t-head'>Willamette Valley
                         Pinot Noir</h1>
                         <p className='t-para'>2 0 1 9  Label | Tech Sheet</p>
@@ -35,7 +35,7 @@ const Trade=()=>{
                     <div className='t-1'>
 
 
-<img src="https://images.squarespace-cdn.com/content/v1/5a8207ded0e628cdcc5112d7/1600205431116-4646BAET1RBYGWORDF8R/AyresVineyard_PerspectivePinotNoir_2019_Label.jpg?format=500w" className='t-img'/>
+<img src="https://images.squarespace-cdn.com/content/v1/5a8207ded0e628cdcc5112d7/1600205431116-4646BAET1RBYGWORDF8R/AyresVineyard_PerspectivePinotNoir_2019_Label.jpg?format=500w" className='t-img'  alt="imaget"/>
 <h1 className='t-head'>Perspective Pinot Noir</h1>
 <p className='t-para'>2 0 1 9  Label | Tech Sheet</p>
 <p className='t-para'>2 0 1 7  Bottle Shot | Label | Tech </p>
@@ -44,7 +44,7 @@ const Trade=()=>{
 <div className='t-1'>
 
 
-<img src="https://images.squarespace-cdn.com/content/v1/5a8207ded0e628cdcc5112d7/1600205056784-LZ0PFHRDVQ4I6FW2Y7CX/AyresVineyard_LewisRogersLane_2019_Label.jpg?format=500w" className='t-img'/>
+<img src="https://images.squarespace-cdn.com/content/v1/5a8207ded0e628cdcc5112d7/1600205056784-LZ0PFHRDVQ4I6FW2Y7CX/AyresVineyard_LewisRogersLane_2019_Label.jpg?format=500w" className='t-img'  alt="image"/>
 <h1 className='t-head'>Lewis Rogers Lane
 Pinot Noir</h1>
 <p className='t-para'>2 0 1 9  Label | Tech Sheet</p>
@@ -54,7 +54,7 @@ Pinot Noir</h1>
 <div className='t-1'>
 
 
-<img src="https://images.squarespace-cdn.com/content/v1/5a8207ded0e628cdcc5112d7/1600205593526-PHA87S51JU5MV2VO6B21/AyresVineyard_PioneerEstatePinotNoir_2019_Label.jpg?format=500w" className='t-img'/>
+<img src="https://images.squarespace-cdn.com/content/v1/5a8207ded0e628cdcc5112d7/1600205593526-PHA87S51JU5MV2VO6B21/AyresVineyard_PioneerEstatePinotNoir_2019_Label.jpg?format=500w" className='t-img'  alt="image"/>
 <h1 className='t-head'>Pioneer Pinot Noir</h1>
 <p className='t-para'>2 0 1 9  Label | Tech Sheet</p>
 <p className='t-para'>2 0 1 7  Bottle Shot | Label | Tech </p>
@@ -64,7 +64,7 @@ Pinot Noir</h1>
 <div className='t-1'>
 
 
-<img src="https://images.squarespace-cdn.com/content/v1/5a8207ded0e628cdcc5112d7/1600205304738-GB2D74BWHQDHVN3JJPCU/AyresVineyard_OneEstatePinotNoir_2019_Label.jpg?format=500w" className='t-img'/>
+<img src="https://images.squarespace-cdn.com/content/v1/5a8207ded0e628cdcc5112d7/1600205304738-GB2D74BWHQDHVN3JJPCU/AyresVineyard_OneEstatePinotNoir_2019_Label.jpg?format=500w" className='t-img'  alt="image"/>
 <h1 className='t-head'>One Pinot Noir</h1>
 <p className='t-para'>2 0 1 9  Label | Tech Sheet</p>
 <p className='t-para'>2 0 1 7  Bottle Shot | Label | Tech </p>
@@ -73,7 +73,7 @@ Pinot Noir</h1>
 <div className='t-1'>
 
 
-<img src="https://images.squarespace-cdn.com/content/v1/5a8207ded0e628cdcc5112d7/1554499641252-WF3CTL3Q6G2SET70347V/Ayres-Vineyard-Rose-Pinot-Noir-2018-Label.jpg?format=500w" className='t-img'/>
+<img src="https://images.squarespace-cdn.com/content/v1/5a8207ded0e628cdcc5112d7/1554499641252-WF3CTL3Q6G2SET70347V/Ayres-Vineyard-Rose-Pinot-Noir-2018-Label.jpg?format=500w" className='t-img'  alt="image"/>
 <h1 className='t-head'>Rosé of Pinot Noir</h1>
 <p className='t-para'>2 0 1 9  Label | Tech Sheet</p>
 
@@ -82,7 +82,7 @@ Pinot Noir</h1>
 <div className='t-1'>
 
 
-<img src="https://images.squarespace-cdn.com/content/v1/5a8207ded0e628cdcc5112d7/1600204834699-6ACGVQR1ZCBCWNLRV7JN/AyresVineyard_GamayNoir_2019_Label.jpg?format=500w" className='t-img'/>
+<img src="https://images.squarespace-cdn.com/content/v1/5a8207ded0e628cdcc5112d7/1600204834699-6ACGVQR1ZCBCWNLRV7JN/AyresVineyard_GamayNoir_2019_Label.jpg?format=500w" className='t-img'  alt="image"/>
 <h1 className='t-head'>Gamay Noir</h1>
 <p className='t-para'>2 0 1 9  Label </p>
 <p className='t-para'>2 0 1 7  Bottle Shot | Label | Tech </p>
