@@ -32,7 +32,7 @@ const About=()=>{
                 <div className='sub-m'>
                 <h1 className='main-h'>“Ribbon Ridge chose us. I knew this was the right place within 45 seconds of arriving on the property. We were not only looking for a great place to grow grapes – which it is – but also for a great place to call home. Three generations call Ayres vineyard home. This corner of the earth has treated us right, so we do everything we can to treat it with the utmost respect.”
                 </h1>
-                <img src="https://images.squarespace-cdn.com/content/v1/5a8207ded0e628cdcc5112d7/1522864067155-JTJW6AK3C7TQB1LZZ3OT/ayres-vineyard-brad-winemaker-script-750.png?format=500w" className='img-m'/>
+                <img src="https://images.squarespace-cdn.com/content/v1/5a8207ded0e628cdcc5112d7/1522864067155-JTJW6AK3C7TQB1LZZ3OT/ayres-vineyard-brad-winemaker-script-750.png?format=500w" className='img-m' alt="image"/>
             </div>
        
             <div className='a-card'>
