@@ -34,7 +34,7 @@ const Visit=()=>{
               <div className='sub-v'>
                 <h1 className='main-h'>“Tasting at Ayres is like coming home. Literally. Everyone who tastes here gets a sneak peek into our daily life. You see our vines, our garden, our son likely practicing baseball on his own field of dreams. Once you enter our underground winery, Brad greets you with a smile, pours you a taste, and shares a story or two. Year after year, guests are surprised by what’s happening on the family farm. Many guests take the time to tell us it was the highlight of their trip.”
                 </h1>
-                <img src="https://images.squarespace-cdn.com/content/v1/5a8207ded0e628cdcc5112d7/1522864905223-TFJP48B3QRQZM216X5IV/ayres-vineyard-kathleen-co-owner-script.png?format=500w" className='img-m'/>
+                <img src="https://images.squarespace-cdn.com/content/v1/5a8207ded0e628cdcc5112d7/1522864905223-TFJP48B3QRQZM216X5IV/ayres-vineyard-kathleen-co-owner-script.png?format=500w" className='img-m'  alt="image"/>
             </div>
             <div >
 
