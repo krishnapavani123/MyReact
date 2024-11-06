@@ -22,12 +22,12 @@ const Home=()=>{
                 <p className='sub-1'>VIEW CURRENT RELEASES</p>
                 </div>
                 <div className='wineimg'>
-                    <img src="https://images.squarespace-cdn.com/content/v1/5a8207ded0e628cdcc5112d7/1518799351961-TRPZ2DUG7U64TUO104EO/ayres-vineyard-home-wine-collection-callout.jpg?format=1000w" className='img1'/>
+                    <img src="https://images.squarespace-cdn.com/content/v1/5a8207ded0e628cdcc5112d7/1518799351961-TRPZ2DUG7U64TUO104EO/ayres-vineyard-home-wine-collection-callout.jpg?format=1000w" className='img1'  alt="imagehh"/>
                 </div>
             </div>
             <div className='card-2'>
             <div className='wineimg'>
-                    <img src="https://images.squarespace-cdn.com/content/v1/5a8207ded0e628cdcc5112d7/1518799762142-JJK6Q13O38BWMH1UXM4S/ayres-vineyard-home-visit-callout-b.jpg?format=1000w" className='img1'/>
+                    <img src="https://images.squarespace-cdn.com/content/v1/5a8207ded0e628cdcc5112d7/1518799762142-JJK6Q13O38BWMH1UXM4S/ayres-vineyard-home-visit-callout-b.jpg?format=1000w" className='img1'  alt="imagehh"/>
                 </div>
                 <div className='card-12'>
                     <h1 className='head-1'>Our Winery</h1>
@@ -45,12 +45,12 @@ const Home=()=>{
                 <p className='sub-1'>LEARN MORE</p>
                 </div>
                 <div className='wineimg'>
-                    <img src="https://images.squarespace-cdn.com/content/v1/5a8207ded0e628cdcc5112d7/1554415630777-CFAM5BSK895LLYU58A4W/ayres-vineyard-home-callout-winemaker-updated.jpg?format=1000w" className='img1'/>
+                    <img src="https://images.squarespace-cdn.com/content/v1/5a8207ded0e628cdcc5112d7/1554415630777-CFAM5BSK895LLYU58A4W/ayres-vineyard-home-callout-winemaker-updated.jpg?format=1000w" className='img1'  alt="imagehh"/>
                 </div>
             </div>
             <div className='card-2'>
             <div className='wineimg'>
-                    <img src="https://images.squarespace-cdn.com/content/v1/5a8207ded0e628cdcc5112d7/1519238206498-C344YB04NUSTW0TR5UBX/ayres-vineyard-home-about-vineyard-callout-d.jpg?format=1000w" className='img1'/>
+                    <img src="https://images.squarespace-cdn.com/content/v1/5a8207ded0e628cdcc5112d7/1519238206498-C344YB04NUSTW0TR5UBX/ayres-vineyard-home-about-vineyard-callout-d.jpg?format=1000w" className='img1'  alt="imagehh"/>
                 </div>
                 <div className='card-12'>
                     <h1 className='head-1'>Our Vineyard</h1>
@@ -63,7 +63,7 @@ const Home=()=>{
             <div className='sub-m'>
                 <h1 className='main-h'>“Visiting vineyards and wineries around the world allowed me to experience the lifestyle of working with a living thing. I’ve always been entrepreneurial by nature – it’s in my DNA, thanks to my very hardworking father and grandfathers – somehow I pulled the long straw and connected all the dots to make a life on a vineyard.”
                 </h1>
-                <img src="https://images.squarespace-cdn.com/content/v1/5a8207ded0e628cdcc5112d7/1519247122052-7B4112599ZKY95VOT6M4/ayres-vineyard-brad-winemaker-script-750.png?format=500w" className='img-m'/>
+                <img src="https://images.squarespace-cdn.com/content/v1/5a8207ded0e628cdcc5112d7/1519247122052-7B4112599ZKY95VOT6M4/ayres-vineyard-brad-winemaker-script-750.png?format=500w" className='img-m'  alt="imageb"/>
             </div>
 
 
